@@ -1,0 +1,77 @@
+body {
+    background: #F2F2F2;
+    font-family: sans-serif;
+}
+
+.kalkulator {
+    width: 40rem;
+    background: #2F495A;
+    margin: 100px auto;
+    padding: 10px 20px 50px 20px;
+    border-radius: 5px;
+    box-shadow: 0px 10px 20px 0px #D1D1D1;
+    height: 40rem;
+}
+
+.bil {
+    width: 35rem;
+    margin: 5px;
+    border: none;
+    font-size: 20pt;
+    border-radius: 5px;
+    padding: 10px;
+    height: 5rem;
+    margin-top: 1rem;
+    margin-left: 1.5rem;
+}
+
+.opt {
+    font-size: 20pt;
+    border: none;
+    width: 25.7rem;
+    margin: 5px;
+    border-radius: 5px;
+    padding: 10px;
+    height: 5rem;
+    margin-top: 1rem;
+    margin-left: 1.5rem;
+}
+
+.tombol {
+    width: 10rem;
+    background: #6ec4f7;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    color: #eee;
+    font-size: 23pt;
+    border-bottom: 8px solid #1b7fb9;
+    height: 5rem;
+    margin-top: 1rem;
+}
+
+.tombol-ulang {
+    background: #44a551;
+    margin-left: 1.5rem;
+    width: 36.5rem;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    color: #eee;
+    font-size: 23pt;
+    border-bottom: 8px solid #0e631a;
+    height: 5rem;
+    margin-top: 1rem;
+}
+
+.judul {
+    font-size: 24pt;
+    text-align: center;
+    color: #eee;
+    font-weight: normal;
+    margin-bottom: 2rem;
+}
